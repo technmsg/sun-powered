@@ -1,5 +1,13 @@
 # Powered by the Sun
 
+## Presentations
+
+A PDF copy of the presentation will be posted **after** the event.
+
+* OSCON 2016
+
+In the meantime the presentation content is available in Markdown.
+
 ## Usage
 
 1. Install [reveal.js](https://github.com/hakimel/reveal.js), following the [installation instructions](https://github.com/hakimel/reveal.js/#installation) for "full setup"
