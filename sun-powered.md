@@ -269,6 +269,7 @@ unknown inverter
 Note: Purchase price was 27,000 USD.
 
 
+
 ## Installation day
 
 
@@ -479,6 +480,8 @@ Dell PowerEdge SC 440
 
 100W = 72 kWh/month = $9.36
 
+vs
+
 Raspberry Pi B+
 
 1.6W = 1.5 kWh/month = 20&cent;
@@ -531,6 +534,16 @@ Interval Start Date,Energy (kWh)
 </pre>
 
 Note: Time zone?
+
+
+
+## Special Thanks
+
+Freedom Solar Power
+
+SunPower
+
+(show and tell goodies)
 
 
 
