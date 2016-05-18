@@ -4,7 +4,7 @@
 
 A PDF copy of the presentation will be posted **after** the event.
 
-* OSCON 2016
+* [OSCON 2016](http://www.slideshare.net/technmsg/powered-by-the-sun-62161877)
 
 In the meantime the presentation content is available in Markdown.
 
